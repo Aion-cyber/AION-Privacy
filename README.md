@@ -3,7 +3,7 @@ Manage how your data is handled in the AION system. Control visibility, access, 
 
 # Privacy Policy
 
-**Effective Date:** 13/Feb 2025
+**Effective Date:** 09/April 2025
 
 **1. Introduction**  
 Welcome to AION. We value your privacy and are committed to protecting your personal data. This Privacy Policy explains how we collect, use, and share information when you use our app.
@@ -36,7 +36,7 @@ Depending on your jurisdiction, you may have rights such as:
 - Opting out of data collection (where applicable)
 
 **7. Changes to This Privacy Policy**  
-We may update this Privacy Policy from time to time. Changes will be reflected with a revised "Effective Date." Continued use of the app after updates constitutes acceptance of the new terms.
+We may update this Privacy Policy from time to time. Changes will be reflected with a revised " 09/April 2025". Continued use of the app after updates constitutes acceptance of the new terms.
 
 **8. Contact Us**  
 If you have any questions about this Privacy Policy, please contact us at: aiontimetracking@gmail.com.
